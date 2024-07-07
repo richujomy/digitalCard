@@ -1,0 +1,104 @@
+:root {
+    font-family: Inter, sans-serif;
+    line-height: 1.1;
+    font-weight: 400;
+    color-scheme: light dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #23252C;
+  }
+  .card{
+    background-color: #1A1B21;
+    width: 400px;
+    padding-top: 15px;
+    margin: auto;
+    border-radius: 15px;
+  }
+  .profile{
+    border-radius: 125px;
+    margin-top: 10px;
+    max-width: 100%;
+    height: 250px;
+  }
+  .Personal{
+    text-align: center;
+ 
+  }
+  .pp{
+    margin-top: -15px;
+    color: #F3BF99;
+    font-size: 15px;
+    
+  }
+  .btn-mail{
+    background-color: #FFFFFF;
+    color: #374151;
+    margin-right: 15px;
+    padding: 8px 30px;
+    border-radius: 8px;
+    font-size: 15px;
+    margin-top: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    
+  }
+  .btn-linkedin{
+    background-color: #5093E2;
+    color: #FFFFFF;
+    padding: 8px 25px;
+    border-radius: 8px;
+    font-size: 15px;
+    margin-top: 5px;
+    display: inline-block;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .mailpng{
+    margin-right: 5px;
+    margin-bottom: -2.4px;
+  }
+  i{
+    margin-right: 4px;
+  }
+  .about{
+    margin-left: 4rem;
+    margin-top: 25px;
+    font-size: 18px;
+    color:#F5F5F5;
+  }
+ .about_p{
+  margin-left: 4rem;
+  margin-top: -5px;
+  font-size: 12px;
+  color: #DCDCDC;
+
+ }
+ .interest{
+  margin-left: 4rem;
+  margin-top: 15px;
+  font-size: 18px;
+  color:#F5F5F5;
+ }
+.intp{
+  margin-left: 4rem;
+  margin-top: -5px;
+  font-size: 12px;
+  color: #DCDCDC;
+}
+footer{
+  margin-top: 2rem;
+  height: 50px;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #161619;
+
+
+}
+.icon{
+  padding-top: 12px;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+  
